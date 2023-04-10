@@ -1,0 +1,13 @@
+.cor{
+    background-color: green;
+    color: white;
+    
+}
+.letra{
+    color: green;
+    background-color: rgb(216, 213, 213);
+}
+table{
+    border: solid 2px;
+    width: 500px;
+}

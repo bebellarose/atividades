@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(10, 28, 189);
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: red;
+}
+.nome{
+    text-align:left;
+}
+.seinao{
+    text-align:left;
+}
+.cool{
+    text-align: left;
+}

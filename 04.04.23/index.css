@@ -1,0 +1,29 @@
+.titulo{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.imagem{
+    text-align: center;
+}
+body{
+    text-align: center;
+    background-color: rgb(138, 28, 28);
+    color: white;
+}
+.direita{
+    text-align: left;
+}
+.esquerda{
+    text-align: left;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: blue;
+}
+.naosei{
+    text-align: left;
+}
+
